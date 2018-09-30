@@ -73,6 +73,3 @@ typings/
 .serverless
 
 .vs
-
-*.js
-*.js.map
